@@ -1,8 +1,11 @@
 [
 null,
-{"id":1,"expanded":false,"name":"Weapon Shop","order":2,"parentId":0,"scrollX":451,"scrollY":304.5},
-{"id":2,"expanded":true,"name":"Kastil","order":1,"parentId":0,"scrollX":1041,"scrollY":556.5},
-{"id":3,"expanded":false,"name":"Item Shop","order":3,"parentId":0,"scrollX":323.3333333333333,"scrollY":388.3333333333333},
-{"id":4,"expanded":false,"name":"Malwin City","order":4,"parentId":0,"scrollX":1353,"scrollY":982.5},
-{"id":5,"expanded":false,"name":"Lost Forest","order":5,"parentId":0,"scrollX":1479,"scrollY":979.5}
+{"id":1,"expanded":false,"name":"Weapon Shop","order":3,"parentId":0,"scrollX":982.8,"scrollY":577.1999999999999},
+{"id":2,"expanded":true,"name":"Kastil","order":1,"parentId":0,"scrollX":994.8,"scrollY":567.6},
+{"id":3,"expanded":false,"name":"Item Shop","order":4,"parentId":0,"scrollX":982.8,"scrollY":577.1999999999999},
+{"id":4,"expanded":false,"name":"Malwin City","order":5,"parentId":0,"scrollX":973.1999999999999,"scrollY":577.1999999999999},
+{"id":5,"expanded":false,"name":"Lost Forest","order":6,"parentId":0,"scrollX":1552,"scrollY":1390},
+{"id":6,"expanded":false,"name":"House 1","order":7,"parentId":0,"scrollX":982.8,"scrollY":577.1999999999999},
+{"id":7,"expanded":false,"name":"Castle","order":2,"parentId":2,"scrollX":1090,"scrollY":624},
+{"id":8,"expanded":false,"name":"Inn 1F","order":8,"parentId":0,"scrollX":832,"scrollY":640}
 ]
