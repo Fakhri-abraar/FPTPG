@@ -1,0 +1,13 @@
+[
+null,
+{"id":1,"expanded":false,"name":"Weapon Shop","order":7,"parentId":4,"scrollX":819,"scrollY":481},
+{"id":2,"expanded":true,"name":"Kastil","order":1,"parentId":0,"scrollX":2184,"scrollY":1282.6666666666667},
+{"id":3,"expanded":false,"name":"Item Shop","order":8,"parentId":4,"scrollX":1965.6,"scrollY":1154.3999999999999},
+{"id":4,"expanded":true,"name":"Malwin City","order":3,"parentId":0,"scrollX":1109,"scrollY":1447},
+null,
+{"id":6,"expanded":false,"name":"Bar","order":4,"parentId":4,"scrollX":819,"scrollY":481},
+{"id":7,"expanded":false,"name":"Castle","order":2,"parentId":2,"scrollX":2184,"scrollY":1282.6666666666667},
+{"id":8,"expanded":false,"name":"Inn","order":5,"parentId":4,"scrollX":819,"scrollY":481},
+{"id":9,"expanded":false,"name":"Pharmasy","order":6,"parentId":4,"scrollX":819,"scrollY":481},
+{"id":10,"expanded":false,"name":"Guild","order":9,"parentId":4,"scrollX":1965.6,"scrollY":1154.3999999999999}
+]
