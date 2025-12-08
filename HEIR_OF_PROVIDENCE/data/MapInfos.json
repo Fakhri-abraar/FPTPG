@@ -1,14 +1,14 @@
 [
 null,
-{"id":1,"expanded":false,"name":"Weapon Shop","order":7,"parentId":4,"scrollX":818.5714285714286,"scrollY":630.8571428571428},
+{"id":1,"expanded":false,"name":"Weapon Shop","order":7,"parentId":4,"scrollX":818.5714285714286,"scrollY":636.8571428571428},
 {"id":2,"expanded":true,"name":"Kastil","order":1,"parentId":0,"scrollX":1157,"scrollY":473},
-{"id":3,"expanded":false,"name":"Item Shop","order":8,"parentId":4,"scrollX":819,"scrollY":481},
+{"id":3,"expanded":false,"name":"Item Shop","order":8,"parentId":4,"scrollX":818.5714285714286,"scrollY":636.8571428571428},
 {"id":4,"expanded":true,"name":"Malwin City","order":3,"parentId":0,"scrollX":1115.142857142857,"scrollY":1302.8571428571427},
 {"id":5,"expanded":false,"name":"West Valley","order":10,"parentId":0,"scrollX":1554,"scrollY":988.2857142857142},
 {"id":6,"expanded":false,"name":"Bar","order":4,"parentId":4,"scrollX":819,"scrollY":481},
 {"id":7,"expanded":false,"name":"Castle","order":2,"parentId":2,"scrollX":1252.2857142857142,"scrollY":1083.4285714285713},
 {"id":8,"expanded":false,"name":"Inn","order":5,"parentId":4,"scrollX":960.8571428571428,"scrollY":630.8571428571428},
 {"id":9,"expanded":false,"name":"Pharmasy","order":6,"parentId":4,"scrollX":818.5714285714286,"scrollY":630.8571428571428},
-{"id":10,"expanded":false,"name":"Guild","order":9,"parentId":4,"scrollX":819,"scrollY":481},
-{"id":11,"expanded":false,"name":"ORC Cave","order":11,"parentId":0,"scrollX":941.9999999999999,"scrollY":1776.8571428571427}
+{"id":10,"expanded":false,"name":"Guild","order":9,"parentId":4,"scrollX":818.5714285714286,"scrollY":636.8571428571428},
+{"id":11,"expanded":false,"name":"ORC Cave","order":11,"parentId":0,"scrollX":941.9999999999999,"scrollY":623.1428571428571}
 ]
